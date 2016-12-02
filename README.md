@@ -2,7 +2,7 @@
  -------------------------------------------------
 |     "If you're here then you've lulzed"         |
 |                    ---                          |
-|                Poole-Botnet                     |
+|                -Chris Poole                     |
 |                                                 |
  -------------------------------------------------
 
@@ -17,6 +17,6 @@
  unfair so I'd like to present "Poole" | All i really ask is
  please don't "flex" or "show-off" with this, you can get in big
  trouble, unless you're a 1337 haxor who doesn't care lulz, if so
- congrats to you ;3 | I will be for now on creating Java & C botnets
+ congrats to you ;3
  if you need help or simply want a source coded for you, direct message
  me via Twitter | http://twitter.com/codingplanets
